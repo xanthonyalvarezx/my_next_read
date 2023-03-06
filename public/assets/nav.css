@@ -1,0 +1,10 @@
+*{box-sizing: border-box}
+
+
+
+#logout{
+    
+    width: 80vw;
+    display: flex;
+    justify-content:flex-end ;
+}
